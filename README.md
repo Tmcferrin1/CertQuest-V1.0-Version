@@ -2,7 +2,7 @@
 
 **A free pixel RPG for studying the CompTIA A+ Core 2 (220-1202) exam.**
 
-▶ **Play it in your browser:** https://tmcferrin1.github.io/CertQuest-.9-Version/
+▶ **Play it in your browser:** https://tmcferrin1.github.io/CertQuest-V1.0-Version/
 
 - Walk around a cozy pixel town, learn each exam objective from beginner-friendly lesson cards, and battle with real exam-style questions.
 - 900+ questions, 38 hands-on PBQs, mock exams with a timer, typed command practice, spaced-repetition Daily Review, a Daily Challenge and an Endless Gauntlet.
