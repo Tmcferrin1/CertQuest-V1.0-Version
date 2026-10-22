@@ -1,13 +1,13 @@
 {
- "code": 4,
- "name": "1.0.4",
- "notes": "PC version now updates itself too; one-command releases.",
+ "code": 5,
+ "name": "1.0.5",
+ "notes": "Game keys for typing anywhere (also through Phone Link); softer menu click sound.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 41869247,
- "sha256": "6b57f6da01ee32da85b0445b17268cf44e6e19c618004a05a24f52c224379810",
+ "size": 41876778,
+ "sha256": "a0a406c766cee5ddcce92c8ab0f8cdb69d649593a0f200dd3ae7911b5ffd789b",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 52979706,
-  "sha256": "0b849106745d27d237a536e347adc29c3a37b2485e6b2cb90fc3cdacfe1917ed"
+  "size": 52985543,
+  "sha256": "da39a54541cbf2321028781dbb081e526c0824898ca8c8221a251ef1a4136c3e"
  }
 }
