@@ -1,13 +1,13 @@
 {
- "code": 6,
- "name": "1.0.6",
- "notes": "Phone updates fixed (the app can now reach the internet); clearer update messages.",
+ "code": 7,
+ "name": "1.0.7",
+ "notes": "Spice update: 15 emotes (Q / Triangle), 10 walking trails at Stylist Rio, a daily gift that grows every day in a row.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 41877306,
- "sha256": "72d67f5dfe5745c13271db72c0bbaf03106c5239826141137cd088d67fba47fe",
+ "size": 41894815,
+ "sha256": "30d437b5e27b4bab18b63704786859e5765f0fc449c52a9268a9d2da73cde97b",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 52985904,
-  "sha256": "3f9fb37b86897e719edb232341232568130590001ee26c2fab364ed5bfdb1157"
+  "size": 53002997,
+  "sha256": "48c73d9ee2337b94dd77b9749170c968fb83d1440fb7bc7140ba0378fae56b40"
  }
 }
