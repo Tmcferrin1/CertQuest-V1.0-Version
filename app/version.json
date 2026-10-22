@@ -1,8 +1,13 @@
 {
- "code": 3,
- "name": "1.0.3",
- "size": 41866799,
- "sha256": "81eca538119a8938b8a605f004e2787a1de08f51cade3b5931251e72e97a877b",
- "notes": "Phone keyboard opens for typed commands; automatic updates.",
- "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk"
+ "code": 4,
+ "name": "1.0.4",
+ "notes": "PC version now updates itself too; one-command releases.",
+ "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
+ "size": 41869247,
+ "sha256": "6b57f6da01ee32da85b0445b17268cf44e6e19c618004a05a24f52c224379810",
+ "windows": {
+  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
+  "size": 52979706,
+  "sha256": "0b849106745d27d237a536e347adc29c3a37b2485e6b2cb90fc3cdacfe1917ed"
+ }
 }
