@@ -1,13 +1,13 @@
 {
- "code": 9,
- "name": "1.0.9",
- "notes": "Cloud save: one save on your PC and phone, by itself (Options \u2192 Cloud save)",
+ "code": 10,
+ "name": "1.2.0",
+ "notes": "The Prestige update: reach Grandmaster, then rank up from Prestige I to X with emblems, titles, auras and hat dyes. Plus Trials, the Prestige Vault, 72 Feats & titles, name colours, card themes, title music and Kitsu the fox.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 41976227,
- "sha256": "07a0e383c65be419c221193fa3230513e14ff10edd1c7e323cd105e4eaf92c42",
+ "size": 42182568,
+ "sha256": "4112e60dd1615a36da19ec07d07797e11cd67e36fc14eab43304d88178a2cbb7",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53076421,
-  "sha256": "f6965055bfe301046b356cdbbe6547bb54307a6061e19aabe77b7f30ad4400b8"
+  "size": 53270178,
+  "sha256": "7f3fea56fadf7b6109899d656a35d18ad2ba098905a290faf95e4b101af1521d"
  }
 }
