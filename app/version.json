@@ -1,13 +1,13 @@
 {
- "code": 8,
- "name": "1.0.8",
- "notes": "Sync my save over Wi-Fi (PC and phone keep one save), the keyboard no longer covers questions (plus a Size key), scroll back up to Choose-2 questions, and Read aloud with your device's voices.",
+ "code": 9,
+ "name": "1.0.9",
+ "notes": "Cloud save: one save on your PC and phone, by itself (Options \u2192 Cloud save)",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 41944362,
- "sha256": "eb23514b64466ba6fcfb28cd2cd6e97f0efb3fef192abea9aa02e239d2aad7c1",
+ "size": 41976227,
+ "sha256": "07a0e383c65be419c221193fa3230513e14ff10edd1c7e323cd105e4eaf92c42",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53045576,
-  "sha256": "bb6ef61724697e2d53689b4f4839013d3b91657e4b22691489106de6d072c897"
+  "size": 53076421,
+  "sha256": "f6965055bfe301046b356cdbbe6547bb54307a6061e19aabe77b7f30ad4400b8"
  }
 }
