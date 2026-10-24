@@ -1,13 +1,13 @@
 {
- "code": 14,
- "name": "1.2.4",
- "notes": "Read aloud: pick your voice from one list grouped by accent (US, UK, Ireland, Australia...), including the phone's online voices, which sound the most natural.",
+ "code": 15,
+ "name": "1.3.0",
+ "notes": "Shiny monsters! 1 in 1,000 in any battle, each with its own flashy colour scheme, some Prismatic. Shiny Charm in the Vault, shiny feats, titles and looks.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42227810,
- "sha256": "1ea071e1a0635bc125cbbc734f7085bc4ff01834de25d169af872af2483d46cc",
+ "size": 42399927,
+ "sha256": "fbf48c7e9cf428ee89066fedd4e42fd9df24a141616aac80081e76bd7df2eeab",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53305826,
-  "sha256": "5391a34a8446c093a661299042adc3aecb362c0e1fc6418ea5f04ff4252f7bb7"
+  "size": 53419802,
+  "sha256": "5bb7e9f6ecaeffc78bafaa57cb6fc978037f8ab52ed1ce447dff9dfd1082d626"
  }
 }
