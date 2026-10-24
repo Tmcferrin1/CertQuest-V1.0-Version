@@ -1,13 +1,13 @@
 {
- "code": 16,
- "name": "1.3.1",
- "notes": "Terminal training: easier hints (a hint, then fill in the blanks), the Command Book, Smart reps and the Terminal Blitz at every hall computer, 3 first-try reps to master a command, streak Bits, 7 new feats. Terminal reps now count for quests and Weak Spots.",
+ "code": 17,
+ "name": "1.3.2",
+ "notes": "Today's plan (Pause): what to study each day until your exam, one tap starts each step. Pick any exam date. Mock exams keep their answer order, show your pace and let you practice your misses. Better wrong answers, quest and Daily Review fixes, and the clock symbol on phones.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42417099,
- "sha256": "5f1309c7ec0c797771be1de5370eccd6ac1249931cc5484e81c5969c5fbe1b11",
+ "size": 42436852,
+ "sha256": "c6c4ba0337e1f6e6be526224429fbd7277df2255b3f5a91313e44482b12fc3a7",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53437685,
-  "sha256": "e50f9edb896cea354de9c8cc6061a8681d84037e8cb6c7348fe5b8fcc085acf9"
+  "size": 53457043,
+  "sha256": "cc57f9e598151353fee8671c6069304c737473a8d227789ed95ebb8cb52afe66"
  }
 }
