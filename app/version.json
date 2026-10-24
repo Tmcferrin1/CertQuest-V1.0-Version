@@ -1,13 +1,13 @@
 {
- "code": 15,
- "name": "1.3.0",
- "notes": "Shiny monsters! 1 in 1,000 in any battle, each with its own flashy colour scheme, some Prismatic. Shiny Charm in the Vault, shiny feats, titles and looks.",
+ "code": 16,
+ "name": "1.3.1",
+ "notes": "Terminal training: easier hints (a hint, then fill in the blanks), the Command Book, Smart reps and the Terminal Blitz at every hall computer, 3 first-try reps to master a command, streak Bits, 7 new feats. Terminal reps now count for quests and Weak Spots.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42399927,
- "sha256": "fbf48c7e9cf428ee89066fedd4e42fd9df24a141616aac80081e76bd7df2eeab",
+ "size": 42417099,
+ "sha256": "5f1309c7ec0c797771be1de5370eccd6ac1249931cc5484e81c5969c5fbe1b11",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53419802,
-  "sha256": "5bb7e9f6ecaeffc78bafaa57cb6fc978037f8ab52ed1ce447dff9dfd1082d626"
+  "size": 53437685,
+  "sha256": "e50f9edb896cea354de9c8cc6061a8681d84037e8cb6c7348fe5b8fcc085acf9"
  }
 }
