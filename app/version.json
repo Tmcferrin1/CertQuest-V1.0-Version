@@ -1,13 +1,13 @@
 {
- "code": 18,
- "name": "1.3.3",
- "notes": "Visual fixes: Usa's halo, the title screen, hat changes, and menus with long text (buttons stay whole, text scrolls).",
+ "code": 19,
+ "name": "1.3.4",
+ "notes": "Title screen: the village trees show whole again.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42442230,
- "sha256": "cfdb1aa465ee169a224a2cf8cfc4a95fc6ffec7aea433f0f0d55850028c9e23d",
+ "size": 42442434,
+ "sha256": "017464dbdf320be3e1daaeb9914cb592f5bffcb2014ccbd572e74dcfefe33000",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53463028,
-  "sha256": "fd4a4828107b540f36f04cfa56147f14d472f90d6f402b3830105b6f6aa89eb4"
+  "size": 53463250,
+  "sha256": "435134a8b4436122c1dbe366ddd3bd4dfd9bad2170e9009271faeb66128523e6"
  }
 }
