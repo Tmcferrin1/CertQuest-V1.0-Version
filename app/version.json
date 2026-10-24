@@ -1,13 +1,13 @@
 {
- "code": 11,
- "name": "1.2.1",
- "notes": "Usa the rabbit: a new buddy who hops, twitches his nose, wears a little something to match your hat or outfit (and leaves little surprises). The road to Prestige X fits the screen, and pets show their faces in battles.",
+ "code": 12,
+ "name": "1.2.2",
+ "notes": "Tougher game: damaged saves repair themselves, safer updates and Wi-Fi sync. New Soft & warm reading voice (Options, Read aloud, Voice style) and Get more voices: UK, Irish, Australian, US.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42212746,
- "sha256": "c402f92db957d9f0764477b8ab066cc91cb52e785bf3d9a1ec408a84a7f526ef",
+ "size": 42226045,
+ "sha256": "70b0c67c5fcd6bd65c7a8f1acb6e02cc44256be08e806bbf1274ac389f5098b5",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53290775,
-  "sha256": "1d3a319c8ef0d085fcaf364a5d767e23550f24803c2a762d40b46d3b9cee2643"
+  "size": 53303642,
+  "sha256": "8390d877a40509fc89daf341a4da076b45dea9f06de44a9756b452a29b99e024"
  }
 }
