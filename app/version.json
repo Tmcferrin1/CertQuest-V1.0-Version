@@ -1,13 +1,13 @@
 {
- "code": 13,
- "name": "1.2.3",
- "notes": "The title screen shows the right version number again. Includes everything from 1.2.2: tougher saves, safer updates, the Soft & warm reading voice.",
+ "code": 14,
+ "name": "1.2.4",
+ "notes": "Read aloud: pick your voice from one list grouped by accent (US, UK, Ireland, Australia...), including the phone's online voices, which sound the most natural.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42225995,
- "sha256": "6295b66ae5852a54e5843dc201d396c5e381f0dac7318c582065a082c4b21587",
+ "size": 42227810,
+ "sha256": "1ea071e1a0635bc125cbbc734f7085bc4ff01834de25d169af872af2483d46cc",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53303457,
-  "sha256": "40ccf6de0f83ce4fd57dab3645aa6cbe06916e02e745f79f1738fecdc5a2fef9"
+  "size": 53305826,
+  "sha256": "5391a34a8446c093a661299042adc3aecb362c0e1fc6418ea5f04ff4252f7bb7"
  }
 }
