@@ -1,13 +1,13 @@
 {
- "code": 12,
- "name": "1.2.2",
- "notes": "Tougher game: damaged saves repair themselves, safer updates and Wi-Fi sync. New Soft & warm reading voice (Options, Read aloud, Voice style) and Get more voices: UK, Irish, Australian, US.",
+ "code": 13,
+ "name": "1.2.3",
+ "notes": "The title screen shows the right version number again. Includes everything from 1.2.2: tougher saves, safer updates, the Soft & warm reading voice.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 42226045,
- "sha256": "70b0c67c5fcd6bd65c7a8f1acb6e02cc44256be08e806bbf1274ac389f5098b5",
+ "size": 42225995,
+ "sha256": "6295b66ae5852a54e5843dc201d396c5e381f0dac7318c582065a082c4b21587",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 53303642,
-  "sha256": "8390d877a40509fc89daf341a4da076b45dea9f06de44a9756b452a29b99e024"
+  "size": 53303457,
+  "sha256": "40ccf6de0f83ce4fd57dab3645aa6cbe06916e02e745f79f1738fecdc5a2fef9"
  }
 }
