@@ -1,13 +1,13 @@
 {
- "code": 22,
- "name": "1.3.7",
- "notes": "A backup after everything you finish (and to the cloud). Backups sort by Command Book. Teal volume sliders. Settings stay per device.",
+ "code": 23,
+ "name": "1.4.0",
+ "notes": "The Moon! Beat Champion Sora to earn your rocket. 397 new questions, 8 study perks, natural voices fixed.",
  "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest.apk",
- "size": 45101468,
- "sha256": "1f0cbfffe2f936f045b76e8dec8e7259142e7b29764974b2b79b9e7f3fcf9f47",
+ "size": 45746684,
+ "sha256": "4e598bd6c8d6b3ccbf1d0660c3ca8e56833971279076c9d45f696678b97555ca",
  "windows": {
   "url": "https://raw.githubusercontent.com/Tmcferrin1/CertQuest-V1.0-Version/main/app/CertQuest-windows.zip",
-  "size": 55715270,
-  "sha256": "d9a9a2a1a4d7aee2ba820e07dbcf6e90e15c6b9ffc4ad18daf169943b99e25df"
+  "size": 56296079,
+  "sha256": "fa5b29e0a388da16ab82646acb054bdb365cb84c88ea3b28b59009aec2e40ad9"
  }
 }
